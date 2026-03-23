@@ -1,7 +1,7 @@
-# Hi, I'm <Adam Sabour>! 👋
+# Hi, I'm Adam Sabou>! 👋
 
 
-![<adam-7890>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![adam-7890's Stats](https://github-readme-stats.vercel.app/api?username=adam-7890&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## Tech Stack
